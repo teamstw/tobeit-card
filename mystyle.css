@@ -43,6 +43,11 @@
      border-radius: 0.25em;
  }
 
+ .my-blog>img {
+    margin-top: auto;
+    
+ }
+
  .my-blog>ul {
      margin-top: 1em;
      margin-left: 1.5em;
